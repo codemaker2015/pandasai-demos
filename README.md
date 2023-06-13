@@ -1,6 +1,12 @@
 # PandasAI demos
 PandasAI is a Python library that extends the functionality of Pandas by incorporating generative AI capabilities.
 
+## Installation
+
+```
+pip install pandasai
+```
+
 ## Sample code
 
 ### Example 1
